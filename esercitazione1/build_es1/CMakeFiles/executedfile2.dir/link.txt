@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wl,--dependency-file=CMakeFiles/executedfile2.dir/link.d CMakeFiles/executedfile2.dir/printargs.cpp.o -o executedfile2

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wl,--dependency-file=CMakeFiles/executedfiles.dir/link.d CMakeFiles/executedfiles.dir/solution.cpp.o -o executedfiles
