@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/maines4.dir/link.d CMakeFiles/maines4.dir/timecounter.cpp.o CMakeFiles/maines4.dir/maines4.cpp.o -o maines4
