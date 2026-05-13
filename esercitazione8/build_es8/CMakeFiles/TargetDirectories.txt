@@ -1,0 +1,5 @@
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build_es8/CMakeFiles/maines8.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build_es8/CMakeFiles/test_graph.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build_es8/CMakeFiles/test.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build_es8/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build_es8/CMakeFiles/rebuild_cache.dir

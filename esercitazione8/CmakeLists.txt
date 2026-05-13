@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.20)
+project(esercitazione8)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wshadow -Werror=vla")
+# Creo il target per l'eseguibile principale del mio progetto software
+add_executable(maines8 maines8.cpp) # eseguo maines8.cpp
+#il mio eseguibile si chiamerà maines8
+add_executable(test_graph test_graph.cpp)
+## Creo i target per gli eseguibili che effettueranno i test unitari
+add_test(NAME testgrafi COMMAND test_graph)
+
+enable_testing()

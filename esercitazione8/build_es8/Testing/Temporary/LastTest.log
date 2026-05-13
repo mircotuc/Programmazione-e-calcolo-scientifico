@@ -1,0 +1,24 @@
+Start testing: May 13 17:08 UTC
+----------------------------------------------------------
+1/1 Testing: testgrafi
+1/1 Test: testgrafi
+Command: "/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build_es8/test_graph"
+Directory: /home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build_es8
+"testgrafi" start time: May 13 17:08 UTC
+Output:
+----------------------------------------------------------
+=== STARTING UNIT TESTS ===
+Test inser: PASSED
+Test Mapping: PASSED
+Test Neighbours: PASSED
+Test difference: PASSED
+ALL TEST PASSED
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"testgrafi" end time: May 13 17:08 UTC
+"testgrafi" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 13 17:08 UTC
