@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/maines9.dir/link.d CMakeFiles/maines9.dir/maines9.cpp.o -o maines9

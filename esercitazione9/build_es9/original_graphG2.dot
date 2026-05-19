@@ -1,0 +1,14 @@
+graph G {
+  node [shape=circle, style=filled, fillcolor=lightblue];
+  edge [color=darkgray, fontcolor=red];
+  Bologna -- Genova [label="1"];
+  Bologna -- Milano [label="6"];
+  Bologna -- Roma [label="4"];
+  Bologna -- Venezia [label="2"];
+  Cagliari -- Sassari [label="5"];
+  Genova -- Milano [label="3"];
+  Genova -- Torino [label="7"];
+  Milano -- Torino [label="2"];
+  Milano -- Venezia [label="11"];
+  Roma -- Venezia [label="10"];
+}

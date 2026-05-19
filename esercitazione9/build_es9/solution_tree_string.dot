@@ -1,0 +1,9 @@
+graph G {
+  node [shape=circle, style=filled, fillcolor=lightblue];
+  edge [color=darkgray, fontcolor=red];
+  Bologna -- Genova [label="1"];
+  Bologna -- Roma [label="4"];
+  Bologna -- Venezia [label="2"];
+  Genova -- Milano [label="3"];
+  Milano -- Torino [label="2"];
+}
