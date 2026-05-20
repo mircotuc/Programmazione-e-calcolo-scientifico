@@ -1,0 +1,2 @@
+testmetodogcd 1 0.0485051
+---

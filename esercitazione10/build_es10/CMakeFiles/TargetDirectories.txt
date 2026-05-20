@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione10/build_es10/CMakeFiles/testgcd.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione10/build_es10/CMakeFiles/test.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione10/build_es10/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione10/build_es10/CMakeFiles/rebuild_cache.dir
